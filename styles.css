@@ -1,0 +1,30 @@
+header{
+    background-color: black;
+    color: white;
+    width:100%;
+    left: 0;
+    right: 0;
+    position: fixed;
+    top: 0;
+    margin: auto;
+}
+
+.nav-bar{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.nav-bar > li{
+    float: left;
+    padding: 10px;
+}
+
+.nav-bar > li > a{
+    color: white;
+}
+
+main {
+    color: darkmagenta;
+}
